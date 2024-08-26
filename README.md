@@ -12,6 +12,7 @@ Os códigos de machine learning e deep learning foram desenvolvidos como **Mestr
 **Mestranda:** Ana Beatriz Miranda Valentin<br/>
 **Instituição de Ensino:** [UTFPR](https://portal.utfpr.edu.br/home)<br/>
 
+A versão do Python utilizada para isso foi 3.11 e as versões de todas as bibliotecas estão descritas abaixo:<br/>
 ## Bibliotecas utilizadas
 * keras = 3.4.1<br/>
 * matplotlib = 3.9.1<br/>
