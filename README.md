@@ -1,4 +1,4 @@
-# Códigos em Python - Pesquisas desenvolvidas em Bioinformática
+# Códigos em Python (Seleção e Aquisição dos dados)
 Todos códigos e exercícios desenvolvidos como **Pesquisador Assistente** no **Programa de Pós Graduação em Bioinformática** da UTFPR, câmpus Cornélio Procópio.<br />
 **Orientadora:** Profa. Dra. Glaucia Maria Bressan<br/>
 **Assistente de pesquisa:** Leonardo Canuto Junior<br/>
@@ -7,6 +7,7 @@ Todos códigos e exercícios desenvolvidos como **Pesquisador Assistente** no **
 ## Bibliotecas utilizadas
 * GEOParse = 2.0.4<br/>
 
+# Códigos em Python (Pré-processamento e Modelos de Classificação)
 Os códigos de machine learning e deep learning foram desenvolvidos como **Mestranda** no **Programa de Pós Graduação em Bioinformática** da UTFPR, campus Cornélio Procópio. <br/>
 **Orientadora:** Profa. Dra. Glaucia Maria Bressan<br/>
 **Mestranda:** Ana Beatriz Miranda Valentin<br/>
