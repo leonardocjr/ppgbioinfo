@@ -3,4 +3,15 @@ Todos códigos e exercícios desenvolvidos como **Pesquisador Assistente** no **
 **Orientadora:** Profa. Dra. Glaucia Maria Bressan<br/>
 **Mestranda:** Ana Beatriz Valentin<br/>
 **Assistente de pesquisa:** Leonardo Canuto Junior<br/>
-**Instituição de Ensino:** [UTFPR](https://portal.utfpr.edu.br/home)
+**Instituição de Ensino:** [UTFPR](https://portal.utfpr.edu.br/home)<br/>
+## Bibliotecas utilizadas
+* keras = 3.4.1<br/>
+* matplotlib = 3.9.1<br/>
+* optuna = 3.6.1<br/>
+* pandas = 2.2.2<br/>
+* numpy = 1.26.4<br/>
+* tensorflow = 2.16.2<br/>
+* Scikit-Learn = 1.5.1<br/>
+* GEOParse = 2.0.4<br/>
+
+
